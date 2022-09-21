@@ -1,0 +1,24 @@
+Singularity> python3 run_scripts/llqd_recompute_archive.py --log_dir results/experiment_0/daqd_baseline/recomputed/archive_5014 --filename results/experiment_0/daqd_baseline/archive_5014.dat --env_id 0
+Dynamics model type:  prob
+data length in numpy 255
+The length of the s_list is 255
+Mean fitness in archive -0.3569371408755422
+Median fitness in archive -0.06871096683456127
+Size of archive / coverage 194
+
+
+Singularity> python3 run_scripts/llqd_recompute_archive.py --log_dir results/experiment_0/daqd_baseline/recomputed/archive_5014 --filename results/experiment_0/daqd_baseline/archive_5014.dat --env_id 1
+Dynamics model type:  prob
+data length in numpy 255
+The length of the s_list is 255
+Mean fitness in archive -1.249776133437389
+Median fitness in archive -1.276182317781516
+Size of archive / coverage 33
+
+Singularity> python3 run_scripts/llqd_recompute_archive.py --log_dir results/experiment_0/daqd_baseline/recomputed/archive_5014 --filename results/experiment_0/daqd_baseline/archive_5014.dat --env_id 2
+Dynamics model type:  prob
+data length in numpy 255
+The length of the s_list is 255
+Mean fitness in archive -1.1669145042448543
+Median fitness in archive -0.8741494763580278
+Size of archive / coverage 112
