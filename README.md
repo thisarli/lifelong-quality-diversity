@@ -1,5 +1,5 @@
 # Lifelong Quality-Diversity (LLQD)
-Gitlab repository for Lifelong Quality-Diversity (LLQD) by Tilman Hisarli. Presentation slides describing the algorithm can be found in slides.pdf file in repository.
+Shallow clone (due to commit history size) of Gitlab repository for Lifelong Quality-Diversity (LLQD) by Tilman Hisarli. Presentation slides describing the algorithm can be found in slides.pdf file in repository.
 
 LLQD is a sample efficient model-based QD implementation that can effectively handle non-stationary environments by producing specialised repertoires of behaviours online for each distinct environment the robot encounters. LLQD uses probabilistic dynamics models to detect previously seen or newly encountered environments based on the robot's recent state and action trajectories. No assumptions about the distribution of environments the robot may encounter in the future need to be made.
 
